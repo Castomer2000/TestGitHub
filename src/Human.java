@@ -8,7 +8,7 @@ public class Human {
         this.age = 40;
         this.work = work;
     }
-    void human(){
+    void human() {
         System.out.println(name + "; " + age + "; " + work + ".");
     }
 }
