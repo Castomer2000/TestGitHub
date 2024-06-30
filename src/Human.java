@@ -9,6 +9,12 @@ public class Human {
         this.work = work;
     }
 
+    public Human(int age, String work) {
+        this.name = "Vladimir";
+        this.age = age;
+        this.work = work;
+    }
+
     public Human(String name, int age, String work) {
         this.name = name;
         this.age = age;
