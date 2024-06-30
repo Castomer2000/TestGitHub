@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("my branch");
-    
+        Human human = new Human("Vova", 40, "Russian Railways");
+        human.human();
     }
 }
